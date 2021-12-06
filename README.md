@@ -22,18 +22,18 @@
 - npm run watch
 
 ### Bon à savoir
-<p align="justify">J'ai utilisé 'tiptap' pour la saisie des textes à trous, l'avantage c'est que l'on peut personnaliser comme on le souhaite et c'est également disponible pour react.js</p>
+<p align="justify">J'ai utilisé 'tiptap' pour la saisie des textes à trous, l'avantage c'est que l'on peut personnaliser comme on le souhaite et c'est également disponible pour react.js.</p>
 
 **Attention** 
 <p align="justify">La page 'map' mets du temps à charger puisque ce sont tous les lieux de tournages qui sont affichés. </p>
-<p align="justify">Le déplacement sur la carte peut être non optimisé lorsque tout les lieux sont affichés, c'est pourquoi il vaut mieux utilisé les flèches directionnelles pour se déplacer sur la carte et utiliser les boutons pour zoomer présents</p>
-<p align="justify">N'oublie pas que vous pouvez appuyer sur chaque point (lieu de tournage) pour qu'une pop-up s'ouvre affichant les informations du tournage</p>
+<p align="justify">Le déplacement sur la carte peut être non optimisé lorsque tout les lieux sont affichés, c'est pourquoi il vaut mieux utilisé les flèches directionnelles pour se déplacer sur la carte et utiliser les boutons pour zoomer présents.</p>
+<p align="justify">N'oublie pas que vous pouvez appuyer sur chaque point (lieu de tournage) pour qu'une pop-up s'ouvre affichant les informations du tournage.</p>
 
 </br>
 
 ## Connexion et inscription 
 ### Incription
-<p align="justify">L'inscription sur la plateforme est possible, toutefois celà est inutile puisqu'un compte à déjà été créé</p>
+<p align="justify">L'inscription sur la plateforme est possible, toutefois celà est inutile puisqu'un compte à déjà été créé.</p>
 
 
 ### Connexion
@@ -42,5 +42,5 @@
 - mot de passe : test
 
 ### Conclusion
-<p align="justify">La librairie vue-leaflet est vraiment simple à implémenter et la documentation est courte et intuitive, celà nous permets d'avoir un rapidement une version de ce que l'on souhaite implémenter. Toutefois, quand on a des milliers de choses à afficher (comme dans ce test technique) il est préférable d'utiliser une librairie plus optimisés, ou alors il faudrait se tourner vers du react car en faisant des v-for avec vue c'est très long à charger</p>
+<p align="justify">La librairie vue-leaflet est vraiment simple à implémenter et la documentation est courte et intuitive, celà nous permets d'avoir un rapidement une version de ce que l'on souhaite implémenter. Toutefois, quand on a des milliers de choses à afficher (comme dans ce test technique) il est préférable d'utiliser une librairie plus optimisés, ou alors il faudrait se tourner vers du react car en faisant des v-for avec vue c'est très long à charger.</p>
 </br>
