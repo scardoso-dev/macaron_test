@@ -30,9 +30,12 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return Inertia::render('Dashboard');
 })->name('dashboard');
 
-// Routes pour la page de la carte
-Route::get('/map', [MapController::class, 'index'])->name('map');
+Route::middleware('auth')->group(function (){
+    // Routes pour la page de la carte
+    Route::get('/map', [MapController::class, 'index'])->name('map');
+    
+    // Routes pour la page des lieux de tournage
+    Route::get('/filming-locations', [FilmingLocationController::class, 'index'])->name('filming.index');
+    Route::post('/filming-locations', [FilmingLocationController::class, 'index'])->name('filming.list');
+});
 
-// Routes pour la page des lieux de tournage
-Route::get('/filming-locations', [FilmingLocationController::class, 'index'])->name('filming.index');
-Route::post('/filming-locations', [FilmingLocationController::class, 'index'])->name('filming.list');
