@@ -18,6 +18,7 @@
 - composer install
 - npm install
 - php artisan migrate:refresh --seed
+- php artisan key:generate.
 - php artisan serve
 - npm run watch
 
