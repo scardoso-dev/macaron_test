@@ -22,7 +22,8 @@
 - npm run watch
 
 ### Bon à savoir
-<p align="justify">J'ai utilisé 'tiptap' pour la saisie des textes à trous, l'avantage c'est que l'on peut personnaliser comme on le souhaite et c'est également disponible pour react.js.</p>
+<p align="justify">Lors de la migration de la base de données et du seeder celà peut prendre du temps puisqu'il y a près 9000 lieux de tournages à insérer.</p>
+</br>
 
 **Attention** 
 <p align="justify">La page 'map' mets du temps à charger puisque ce sont tous les lieux de tournages qui sont affichés. </p>
