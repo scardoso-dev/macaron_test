@@ -27,7 +27,7 @@
 
 **Attention** 
 <p align="justify">La page 'map' mets du temps à charger puisque ce sont tous les lieux de tournages qui sont affichés. </p>
-<p align="justify">Le déplacement sur la carte peut être non optimisé lorsque tout les lieux sont affichés, c'est pourquoi il vaut mieux utilisé les flèches directionnelles pour se déplacer sur la carte et utiliser les boutons pour zoomer présents.</p>
+<p align="justify">Le déplacement sur la carte peut être non optimisé lorsque tout les lieux sont affichés, c'est pourquoi il vaut mieux utilisé les flèches directionnelles pour se déplacer sur la carte et utiliser les boutons présents pour zoomer. En revanche quand c'est filtrer ça fonctionne correctement.</p>
 <p align="justify">N'oublie pas que vous pouvez appuyer sur chaque point (lieu de tournage) pour qu'une pop-up s'ouvre affichant les informations du tournage.</p>
 
 </br>
